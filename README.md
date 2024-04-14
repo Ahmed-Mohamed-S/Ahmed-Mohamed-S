@@ -4,7 +4,7 @@
 💼 Open for new Internship or Job opportunities.
 📫 Reach me at [Your email address] for collaborations!
 😄 Pronouns: [Your preferred pronouns]
-<a href="https://www.mysql.com/"><img src="https://www.mysql.com/" alt="mysql"></a>
+<a href="https://www.mysql.com/"><img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="mysql"></a>
 
 
 
