@@ -4,16 +4,8 @@
 💼 Open for new Internship or Job opportunities.
 📫 Reach me at [Your email address] for collaborations!
 😄 Pronouns: [Your preferred pronouns]
-Languages and Tools:
-- Angular
-- C++
-- C#
-- Git
-- Java
-- MySQL
-- Postman
-- Spring
-- TypeScript
+<a href="https://www.mysql.com/"><img src="https://www.mysql.com/" alt="mysql"></a>
+
 
 
 
