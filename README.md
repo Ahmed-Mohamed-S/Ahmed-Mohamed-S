@@ -11,13 +11,13 @@
 
 - 📫 Email me at [ahmedmo15217@gmail.com](ahmedmo15217@gmail.com)
 
-- 💼 I’m currently open for a new Job opportunity.Here's <a href="https://drive.google.com/file/d/1zvb5aZqlcaYeN4Cev6cb6rXjFjeVx7tR/view?usp=drive_link" target="_blank">My Resume</a>.
+- 💼 I’m currently open for a new Job opportunity. Here's <a href="https://drive.google.com/file/d/1zvb5aZqlcaYeN4Cev6cb6rXjFjeVx7tR/view?usp=drive_link" target="_blank">My Resume</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmed-mohamed192046302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-mohamed192046302" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100018970873027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100018970873027" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ahmohamed5250/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ahmohamed5250/?hl=en" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmed-mohamed192046302" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-mohamed192046302" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100018970873027" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100018970873027" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ahmohamed5250/?hl=en" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ahmohamed5250/?hl=en" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
