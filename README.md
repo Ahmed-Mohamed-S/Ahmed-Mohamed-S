@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
 <h3 align="center">A back end developer PHP/Laravel</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-mohamed-s" alt="ahmed-mohamed-s" /></a> </p>
+
 
 - 🎓 Senior Student @FCI - **Menoufia University**
 
