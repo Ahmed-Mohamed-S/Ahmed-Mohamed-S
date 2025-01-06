@@ -8,7 +8,7 @@
 
 - 🎓 fresh graduation @FCI - **Menoufia University**
 
-- 🌱 I’m Currently Learning Backend Engineering **PHP/Laravel**
+- 🌱 I’m Currently Learning Full Stack Engineering **PHP/Laravel**
 -  📫 Email me at <a href="mailto:ahmedmo15217@gmail.com">ahmedmo15217@gmail.com</a>
 - 💼 I’m currently open for a new Job opportunity. Here's <a href="https://drive.google.com/file/d/11tofRRNWLiwFteV97PSd6ZyHeiaLokHx/view?usp=drive_link" target="_blank">My CV </a>.
 
