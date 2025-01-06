@@ -6,7 +6,7 @@
 
 
 
-- 🎓 Senior Student @FCI - **Menoufia University**
+- 🎓 fresh graduation @FCI - **Menoufia University**
 
 - 🌱 I’m Currently Learning Backend Engineering **PHP/Laravel**
 -  📫 Email me at <a href="mailto:ahmedmo15217@gmail.com">ahmedmo15217@gmail.com</a>
